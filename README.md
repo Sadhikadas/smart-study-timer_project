@@ -1,0 +1,2 @@
+# smart-study-timer_project
+This 8051 microcontroller-based Smart Study Timer enhances productivity using the Pomodoro technique: 4 study sessions (25 min each) with 3 short breaks (5 min) and 1 long break (15 min). Features 16x2 LCD for session status, four 7-segment displays and push-button control for automated cycle management.
